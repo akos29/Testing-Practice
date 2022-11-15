@@ -1,7 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
-
+# Testing Practice - using Jest Library
 > This project aims at using JEST and AAA patterns to make sure testing is easily done.
 - Write unit tests for a JavaScript app.
 - Use AAA pattern for unit tests.
