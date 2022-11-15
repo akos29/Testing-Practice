@@ -4,6 +4,6 @@ function stringLength(a) {
     return len;
   } 
   throw new Error( "The character length must between one and ten");
- 
 }
-  module.exports = stringLength;
+
+module.exports = stringLength;

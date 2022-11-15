@@ -1,5 +1,4 @@
 const stringLength = require('./stringLength');
-const sum = require('./stringLength');
 
 test('takes a string and returns its characters count', () => {
   expect(stringLength("Kibrewosse")).toBe(10);
