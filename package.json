@@ -4,6 +4,6 @@
   },
   "scripts": {
     "test": "jest",
-    "testAll": "jest --watch *.js"
+    "testAll": "jest --watch"
   }
 }
